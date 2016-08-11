@@ -1,0 +1,14 @@
+layout_spectrum: 0.6974035324528813
+typography_spectrum: 0.3065744247287512
+color:
+  brandStrength: 0.5467678646091372
+  lightness: 0.0396683809813112
+  saturation: 0.17682230076752603
+  rhythmicContrast: 0.054742403561249375
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: fivecloves
