@@ -1,16 +1,16 @@
 layout_spectrum: 0.5078541170805693
-typography_spectrum: 0.532014437019825
+typography_spectrum: 0.385870601516217
 color:
-  brandStrength: 0.3330187303945422
-  lightness: 0.27723593823611736
-  saturation: 0.39849885064177215
-  rhythmicContrast: 0.00486580771394074
+  brandStrength: 0.27497797342948616
+  lightness: 0.6958900606259704
+  saturation: 0.739313444821164
+  rhythmicContrast: 0.835151506587863
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
 name: fivecloves
 title: ''
 description: "Blockchain | Investing | Organic | Coworking\_"
