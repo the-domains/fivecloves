@@ -1,9 +1,20 @@
-layout_spectrum: 0.12143873446621001
-typography_spectrum: 0.45333370473235846
+title: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: "Blockchain | Investing | Organic | Coworking\_"
 color:
-  brandStrength: 0.27497797342948616
-  lightness: 0.6958900606259704
   saturation: 0.739313444821164
+  brandStrength: 0.2749779734294862
   rhythmicContrast: 0.835151506587863
   brandColors:
     - '#63A69F'
@@ -11,10 +22,11 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
-name: fivecloves
+  lightness: 0.6958900606259704
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c9fde1-3a11-48a4-bb54-8c211e7390d4.png
-title: ''
-description: "Blockchain | Investing | Organic | Coworking\_"
+name: fivecloves
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
+typography_spectrum: 0.4533337047323585
+layout_spectrum: 1
