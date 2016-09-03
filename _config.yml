@@ -1,4 +1,3 @@
-layout_spectrum: 0.5078541170805693
 typography_spectrum: 0.385870601516217
 color:
   brandStrength: 0.27497797342948616
@@ -11,6 +10,11 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
+layout_spectrum: 0.5078541170805693
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
 name: fivecloves
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c9fde1-3a11-48a4-bb54-8c211e7390d4.png
 title: ''
 description: "Blockchain | Investing | Organic | Coworking\_"
