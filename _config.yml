@@ -1,4 +1,3 @@
-layout_spectrum: 0.43881982867605984
 typography_spectrum: 0.026832456002011895
 color:
   saturation: 0.6565779247321188
@@ -11,7 +10,12 @@ color:
     - '#FFC0A9'
     - '#FF8598'
   lightness: 0.44851268199272454
-title: ''
+layout_spectrum: 0.43881982867605984
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
+name: fivecloves
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c9fde1-3a11-48a4-bb54-8c211e7390d4.png
 collections:
   - index:
       path: /
@@ -24,9 +28,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: ''
 description: "Blockchain | Investing | Organic | Coworking\_"
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c9fde1-3a11-48a4-bb54-8c211e7390d4.png
-name: fivecloves
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
