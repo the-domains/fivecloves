@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-02T03:07:40.675Z'
+datePublished: '2016-09-02T03:09:18.661Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T03:07:19.621Z'
+dateModified: '2016-09-02T03:09:16.746Z'
 title: ''
 publisher: {}
 description: 'Job title: Customer Service'
-starred: false
 sourcePath: _posts/2016-09-02-job-title-customer-service.md
+starred: false
 url: job-title-customer-service/index.html
 _context: 'http://schema.org'
 _type: Article
