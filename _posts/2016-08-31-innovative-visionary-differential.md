@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T03:45:03.391Z'
+datePublished: '2016-09-02T03:46:00.636Z'
 sourcePath: _posts/2016-08-31-innovative-visionary-differential.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T03:45:02.470Z'
+dateModified: '2016-09-02T03:45:59.199Z'
 title: ''
 publisher: {}
 description: >-
