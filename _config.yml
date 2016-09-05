@@ -15,9 +15,6 @@ logo: null
 name: fivecloves
 navigation:
   - name: Jobs
-    id: de32afbe-c0e0-4d44-8cbf-3a577f522492
-    type: content
-  - name: Jobs
     id: 532c23a8-9b64-45dc-8000-4e28c0090c3e
     type: content
 favicon: >-
