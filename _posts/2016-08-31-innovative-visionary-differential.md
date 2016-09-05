@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-09-02T03:46:00.636Z'
+datePublished: '2016-09-02T03:51:20.133Z'
 sourcePath: _posts/2016-08-31-innovative-visionary-differential.md
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-09-02T03:45:59.199Z'
+dateModified: '2016-09-02T03:51:19.363Z'
 title: ''
 publisher: {}
 description: >-
   To improve the world for which we live in. Envisioning the difference as an
   innovative approach.
 starred: false
-url: to-improve-the-world-for-which-we-live-in-envisioning-the-d/index.html
 _type: Blurb
 
 ---
