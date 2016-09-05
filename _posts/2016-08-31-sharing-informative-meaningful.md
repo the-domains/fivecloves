@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T12:15:32.954Z'
+datePublished: '2016-09-02T04:06:12.891Z'
 sourcePath: _posts/2016-08-31-sharing-informative-meaningful.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:15:23.459Z'
+dateModified: '2016-09-01T12:35:04.934Z'
 title: ''
 publisher: {}
 description: >-
