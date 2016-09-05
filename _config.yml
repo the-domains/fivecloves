@@ -14,6 +14,10 @@ layout_spectrum: 0.43881982867605984
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
 name: fivecloves
+navigation:
+  - name: Jobs
+    id: de32afbe-c0e0-4d44-8cbf-3a577f522492
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c9fde1-3a11-48a4-bb54-8c211e7390d4.png
 collections:
