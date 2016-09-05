@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-09-02T03:41:46.375Z'
+datePublished: '2016-09-02T03:51:56.536Z'
 sourcePath: _posts/2016-09-02-job-title-customer-service.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T03:41:45.121Z'
-title: ''
+dateModified: '2016-09-02T03:51:55.650Z'
+title: Jobs
 publisher: {}
-description: Customer Service
+description: 'Job title: Customer Service'
 starred: false
 url: customer-service/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-Customer Service
+# Jobs
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de4b819-f598-44a0-9023-6c1fa40dd795.jpg)
 
 **Job title: **Customer Service
