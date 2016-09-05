@@ -11,8 +11,7 @@ color:
     - '#FF8598'
   lightness: 0.44851268199272454
 layout_spectrum: 0.47758101182989776
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9f2c37-6361-4b15-9bb7-52b5d45902f6.png
+logo: null
 name: fivecloves
 navigation:
   - name: Jobs
